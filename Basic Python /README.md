@@ -1,4 +1,4 @@
-It contains basics of python
+🎯 It contains basics of python
 - Variables in Python
 - Basic python Data Types
 - random methods
