@@ -1,0 +1,18 @@
+It contains basics of python
+- Variables in Python
+- Basic python Data Types
+- random methods
+- Python Casting
+- Python Strings Basics
+- String Methods
+- String Concatenation
+- String Formatting in Python
+- Booleans in Python
+- Operators in Python
+- Python List
+- Python Dictionary
+- Dictioneries properties
+- Loop in Dicitionary
+- Practise Questions on Dictionary
+- tuples
+- Function in pythons
