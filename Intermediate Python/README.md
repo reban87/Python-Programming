@@ -1,1 +1,5 @@
-## It contains basics of Dictionary operations in Python
+## It contains basics of data structures in Python
+- dictionery
+- list
+- tuples
+- set
