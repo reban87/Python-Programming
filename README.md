@@ -1,3 +1,3 @@
 # Python-Programming
 
-Basic and Intermediate Python Programming
+This repo contains basic and intermediate python programming
